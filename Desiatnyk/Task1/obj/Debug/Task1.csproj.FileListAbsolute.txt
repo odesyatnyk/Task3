@@ -1,0 +1,5 @@
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Task1\bin\Debug\Task1.dll
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Task1\bin\Debug\Task1.pdb
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Task1\obj\Debug\Task1.dll
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Task1\obj\Debug\Task1.pdb
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache

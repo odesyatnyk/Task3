@@ -1,0 +1,10 @@
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Test.exe.config
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Test.exe
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Test.pdb
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Task1.dll
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Task2.dll
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Task1.pdb
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\bin\Debug\Task2.pdb
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\obj\Debug\Test.exe
+D:\EPAM\RDNetPool10\Tasks\Task2\Desiatnyk\Test\obj\Debug\Test.pdb
